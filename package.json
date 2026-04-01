@@ -1,0 +1,13 @@
+{
+  "name": "ideabank-cute-gallery",
+  "version": "1.0.0",
+  "description": "Cute photo collection and reaction site with password gate",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
